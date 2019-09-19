@@ -56,10 +56,13 @@ Termux除了支持apt命令外,还在此基础上封装了pkg命令,pkg命令向
   
   手机没有root
 * pkg install proot
+
   模拟root环境
 * termux-chroot 
+
   如果你手机root
 *  pkg install tsu
+
 * tsu 会将用户切换到root下
 
 # filebrowser文件服务器
