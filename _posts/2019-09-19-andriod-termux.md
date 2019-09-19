@@ -30,9 +30,9 @@ tags:
   * 开源且不需要root,支持apt管理软件包，
   * 还支持Python,PHP,Ruby,Go,Nodejs,MySQL等,可玩性很高
 
-  ![官网](https://termux.com/)        
-  ![github地址](https://github.com/termux/termux-app)        
-  ![google play地址](https://play.google.com/store/apps/details?id=com.termux)        
+  [官网](https://termux.com/)        
+  [github地址](https://github.com/termux/termux-app)        
+  [google play地址](https://play.google.com/store/apps/details?id=com.termux)        
 
 # termux基本指令
 ***
