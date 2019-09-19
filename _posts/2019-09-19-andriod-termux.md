@@ -65,7 +65,7 @@ Termux除了支持apt命令外,还在此基础上封装了pkg命令,pkg命令向
 # filebrowser文件服务器
 ## 安装
 ***
-   * curl -fsSL https://filebrowser.xyz/get.sh | bash
+   * ``` curl -fsSL https://filebrowser.xyz/get.sh | bash ```
    * 下载并安装filebrowser
    
 ## 运行
